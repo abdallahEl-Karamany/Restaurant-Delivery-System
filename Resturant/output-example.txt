@@ -1,0 +1,16 @@
+ID	Arrival Time	Waiting Time	Service Time	delivered Time		Money	
+
+3		2		0		3		5		300
+
+300		2		0		5		7		400
+
+9		4		0		4		8		150
+
+10		6		0		1		7		350
+
+1		7		0		2		9		110
+
+2		9		0		1		10		56
+
+4		12		0		8		20		42
+
